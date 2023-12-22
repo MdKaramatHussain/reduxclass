@@ -1,0 +1,5 @@
+This file contain every operation
+related to redux 
+
+=> Create folder by feature 
+    in our recent project there is only one feature and that is Cake
